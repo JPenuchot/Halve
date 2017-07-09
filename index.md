@@ -1,10 +1,10 @@
 ---
 layout: home
 ---
-# About Theme
+# ~jpenuchot
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Computer geek who fell in love with music.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Currently working at the LRI (Laboratory of Research in Computer Science) near Paris as an intern. See my work [here](https://github.com/JPenuchot/boost.simd_playground). Otherwise I'm studying Computer Science at the Paris-Saclay University.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+The rest of my work is available on my [GitHub](https://github.com/JPenuchot), oh and I have a [YouTube channel](https://www.youtube.com/user/SlymayerTV) where I do live music productions too.

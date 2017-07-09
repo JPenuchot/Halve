@@ -44,7 +44,7 @@ github:             JPenuchot
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           username
+youtube:           SlymayerTV
 soundcloud:        JPenuchot
 #weibo:             username
 #flickr:            username
@@ -52,7 +52,7 @@ soundcloud:        JPenuchot
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
