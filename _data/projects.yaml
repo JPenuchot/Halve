@@ -23,7 +23,8 @@
 #  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
 #  completed: false
 
-#- title: Start Page
-#  url: http://taylantatli.me/StartPage/
-#  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-#  completed: false
+- title: boost.simd_linalgebra
+  url: https://github.com/JPenuchot/boost.simd_playground
+  image: https://github.com/JPenuchot/boost.simd_playground/raw/master/boostsimd-floor-is.jpg
+  completed: true
+
