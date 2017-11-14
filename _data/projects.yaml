@@ -23,8 +23,12 @@
 #  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
 #  completed: false
 
-- title: boost.simd_linalgebra
+- title: "Benchmarking/Tests : boost.simd_playground"
   url: https://github.com/JPenuchot/boost.simd_playground
   image: https://github.com/JPenuchot/boost.simd_playground/raw/master/boostsimd-floor-is.jpg
   completed: true
 
+- title: "Toolbox : cpp-sak"
+  url: https://github.com/JPenuchot/cpp-sak
+  image: http://www.penuch.it/images/cpp-sak.png
+  completed: true
