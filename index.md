@@ -1,17 +1,19 @@
----
-layout: home
----
-# ~jpenuchot
 
-Computer geek who fell in love with music.
+<body>
+  
+<h1>~jpenuchot</h1>
 
-Studying Computer Science at Paris-Saclay University. I also worked at the LRI (French Laboratory of Computer Science) where I did some benchmarking on [boost.simd](https://github.com/NumScale/boost.simd) by developing high-performance linear algebra kernel using only portable C++ code (thanks to boost.simd) that matched with OpenBLAS and MKL in terms of performance.
+<p>Computer geek who fell in love with music.</p>
 
-The rest of my work is available on :
+<p>Studying Computer Science at Paris-Saclay University. I also worked at the LRI (French Laboratory of Computer Science) where I did some benchmarking on [boost.simd](https://github.com/NumScale/boost.simd) by developing high-performance linear algebra kernel using only portable C++ code (thanks to boost.simd) that matched with OpenBLAS and MKL in terms of performance.</p>
 
-- [GitHub](https://github.com/JPenuchot)
-- [SoundCloud](https://soundcloud.com/unkwnplyr)
+<p>The rest of my work is available on :</p>
 
-And some links I recommend checking out here : [~/links](./links.html)
+<ul>
+  <li><a href=GitHub>(https://github.com/JPenuchot)</a> </li>
+  <li><a href=SoundCloud>(https://soundcloud.com/unkwnplyr)</a> </li>
+</ul>
 
-This site runs on Tylan Talti's [Halve theme](https://github.com/TaylanTatli/Halve). Many thanks to him for providing a cool Jekyll theme so I don't have to learn web design.
+<p>And some links I recommend checking out here : <a href=./links.html>~/links</a></p>
+
+</body>
