@@ -10,9 +10,10 @@ body
 }
 
 h1  { color: #fb4934; }
+h2  { color: #fb4934; }
+h3  { color: #8ec07c; }
 a   { text-decoration: none; color: #fe8019; }
 p   { text-align: justify; }
-h2  { color: #fb4934; }
 
 /*  COLORS (from https://github.com/morhetz/gruvbox)
   dark0_hard      #1d2021
