@@ -12,4 +12,6 @@ The rest of my work is available on :
 - [GitHub](https://github.com/JPenuchot)
 - [SoundCloud](https://soundcloud.com/unkwnplyr)
 
+And some links I recommend checking out here : [~/links](./links.html)
+
 This site runs on Tylan Talti's [Halve theme](https://github.com/TaylanTatli/Halve). Many thanks to him for providing a cool Jekyll theme so I don't have to learn web design.
