@@ -15,8 +15,10 @@ h3  { color: #161616; }
 a   { text-decoration: none; color: #79740e; }
 p   { text-align: justify; }
 
-.item-name { text-align: left; margin-right : 600px;}
-.item-desc { text-align: justify; margin-right: 200px; margin-left: 100px; }
+.item-name        { text-align: left; margin-right : 600px;}
+.large-item-name  { text-align: left; }
+
+.item-desc  { text-align: justify; margin-right: 200px; margin-left: 100px; }
 
 /*  COLORS (from https://github.com/morhetz/gruvbox)
   dark0_hard      #1d2021
