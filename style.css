@@ -3,17 +3,20 @@
 body
 {
   font-family: "Monospace";
-  color: #1d2021;
-  background-color: #f9f5d7;
+  color: #000000;
+  background-color: #ffffff;
   max-width: 800px;
   margin: auto;
 }
 
-h1  { color: #427b58; }
-h2  { color: #427b58; }
-h3  { color: #427b58; }
+h1  { color: #161616; }
+h2  { color: #161616; }
+h3  { color: #161616; }
 a   { text-decoration: none; color: #79740e; }
 p   { text-align: justify; }
+
+.item-name { text-align: left; margin-right : 600px;}
+.item-desc { text-align: justify; margin-right: 200px; margin-left: 100px; }
 
 /*  COLORS (from https://github.com/morhetz/gruvbox)
   dark0_hard      #1d2021
