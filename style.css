@@ -1,24 +1,28 @@
 /* AYOOOOOO */
 
-body
-{
-  font-family: "Monospace";
-  color: #000000;
-  background-color: #ffffff;
-  max-width: 800px;
-  margin: auto;
+body {
+  font: 16px Monospace;
+  color: #f2e5bc;
+  background-color: #32302f;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-h1  { color: #161616; }
-h2  { color: #161616; }
-h3  { color: #161616; }
-a   { text-decoration: none; color: #79740e; }
+h1  { color: #fe8019; }
+h2  { color: #fe8019; }
+h3  { color: #fe8019; }
+h4  { color: #fe8019; }
+h5  { color: #fe8019; }
+h6  { color: #fe8019; }
+
+a   { text-decoration: none; color: #fabd2f; }
 p   { text-align: justify; }
 
-.item-name        { text-align: left; margin-right : 600px;}
+.item-name        { text-align: left; }
 .large-item-name  { text-align: left; }
 
-.item-desc  { text-align: justify; margin-right: 200px; margin-left: 100px; }
+.item-desc  { text-align: justify; margin-left: 100px; max-width: 500px; }
 
 /*  COLORS (from https://github.com/morhetz/gruvbox)
   dark0_hard      #1d2021
